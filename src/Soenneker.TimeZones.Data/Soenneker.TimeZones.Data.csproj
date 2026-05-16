@@ -40,6 +40,9 @@
         <None Include="..\..\README.md" Pack="true" PackagePath="\" />
         <None Include="..\..\LICENSE" Pack="true" PackagePath="\" />
         <None Include="..\..\icon.png" Pack="true" PackagePath="\" />
-        <!--<Content Include="Resources\ffmpeg.exe" Pack="true" PackageCopyToOutput="true" />-->
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="Resources\timezones.geojson" Pack="true" PackageCopyToOutput="true" />
     </ItemGroup>
 </Project>
