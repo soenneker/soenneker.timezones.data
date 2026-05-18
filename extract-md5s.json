@@ -4,7 +4,8 @@
       "Name": "OpenStreetMap Weekly Planet PBF",
       "Url": "https://planet.openstreetmap.org/pbf/planet-latest.osm.pbf",
       "CacheFileName": "planet-latest.osm.pbf",
-      "Md5": "0b4ba95028d33528cb6e94af15f06446"
+      "Md5": "01f05e8827f3da75092637a1a5f05b17",
+      "Enabled": true
     }
   ]
 }
